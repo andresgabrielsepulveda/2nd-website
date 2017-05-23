@@ -1,0 +1,50 @@
+/* Imports
+============================ */
+
+/* Globals
+============================ */
+@font-face {
+    font-family: 'Rubik';
+    src: url("../fonts/Rubik/Rubik-Regular.ttf");
+}
+html {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Header
+============================ */
+header {
+    text-align:center;
+}
+
+/* Nav
+============================ */
+nav a {
+    text-decoration:none;
+    text-transform: uppercase;
+    margin:10px;
+    
+}
+
+/* Body
+============================ */
+body dl {
+    padding-left:50px
+}
+body dt {
+    text-decoration:underline;
+    font-weight: 700;
+    font-size: 20px;
+}
+body dd {
+    text-decoration: none;
+}
+body li {
+    margin-bottom:10px;
+    margin-top:10px;
+}
+/* Footer
+============================ */
+
+/* Media Queries
+============================ */
